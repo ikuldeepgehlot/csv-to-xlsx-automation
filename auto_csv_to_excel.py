@@ -2,7 +2,7 @@ import csv
 import os
 from openpyxl import Workbook
 
-folder = r"C:\Users\Abcom\Downloads"
+folder = r"C:\Users\Abcom\Downloads" #replace Abcom with user profile name
 
 def convert_csv_to_xlsx(csv_path):
     xlsx_path = csv_path.replace(".csv", ".xlsx")
