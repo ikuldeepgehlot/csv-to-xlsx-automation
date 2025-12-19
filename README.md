@@ -1,4 +1,4 @@
-📊 CSV to Excel Automation Tool (Amazon Seller Central)  
+📊 CSV to Excel Automation Tool   
 
 📌 Business Problem
 
